@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nutibara.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["7B:62:8B:AF:C3:6A:09:93:9A:35:0E:43:1E:5F:73:B5:B8:6F:9A:08:E9:88:51:4B:89:E2:FB:0A:28:70:E4:D5"]
+    }
+  }]  
